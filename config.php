@@ -10,9 +10,9 @@
 
 
 $server = "us-cdbr-east-06.cleardb.net";
-$username = "b5d09f87f57f1b";
-$password = "878a9758";
-$db = "heroku_c3235b8a3c5307d";
+$username = "bf74bece7e73cf";
+$password = "daefa16e";
+$db = "heroku_5deef31df4ea6d3";
 
 $conn = mysqli_connect($server, $username, $password, $db) or die("database connection error");
 ?>
